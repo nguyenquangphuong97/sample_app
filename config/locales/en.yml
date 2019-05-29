@@ -1,10 +1,8 @@
 en:
-  base_title: "Ruby on Rails Tutorial Sample App"
   static_pages:
     home:
       title1: "Home"
-      para1_html: "This is the home page for the %{href}"
-      para2: "sample application"
+      para1_html: "This is the home page for the %{href} sample application "
     help:
       title: "Help"
       para1_html: "Get help on the Ruby on Rails Tutorial at the %{link}"
@@ -30,4 +28,4 @@ en:
     help_page: "https://www.railstutorial.org/help"
     about_page: "https://www.railstutorial.org/about"
     contact_page: "https://www.railstutorial.org/contact"
-    book_page: "https://www.railstutorial.org/book"
+book_page: "https://www.railstutorial.org/book"
