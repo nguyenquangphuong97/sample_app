@@ -17,4 +17,4 @@ user:
   size_ava: 80
   size_ava_sm: 50
 micropost:
-length_max: 140
+  length_max: 140

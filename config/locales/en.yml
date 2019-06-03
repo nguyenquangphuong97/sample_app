@@ -80,6 +80,8 @@ en:
     edit: "Edit user"
     save_change: "Save changes"
     post: "Post"
+    follow: "Follow"
+    unfollow: "Unfollow"
   errors:
     nil_user: "User not found"
     msg1: "Invalid email/password combination"
