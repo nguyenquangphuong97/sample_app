@@ -1,6 +1,6 @@
 checked: "1"
 per_page: 30
-default_from_email: "happyme5696@gmail.com"
+default_from_email: "pttl1202@gmail.com"
 address: "smtp.gmail.com"
 port: 587
 domain: "gmail.com"
